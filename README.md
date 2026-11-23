@@ -1,5 +1,5 @@
 # IoT Dashboard: MQTT + Node-RED + REST API + WebSocket
-
+# Buka di Chrome lalu Paste Link Ini: http://localhost:1880/dashboard
 Dashboard monitoring suhu dan kelembaban real-time dengan kontrol perangkat. Data sensor dikirim lewat **MQTT**, diolah oleh **Node-RED**, disimpan di **SQLite**, lalu ditampilkan di dashboard web lewat **WebSocket** (tanpa polling) dengan grafik **Chart.js**.
 
 ## Fitur
