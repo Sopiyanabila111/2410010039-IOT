@@ -1,0 +1,16 @@
+# SQLite database
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node-RED credential & secrets
+flows_cred.json
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
